@@ -95,9 +95,8 @@ This system is lightweight, reliable, and ideal for real-world use cases such as
 ## ⚙️ Installation
 
 ### Create Virtual Environment
-bash
-python3 -m venv venv
-source venv/bin/activate
+-----python3 -m venv venv
+-----source venv/bin/activate
 
 ## Run the Project
 python src/ui_cli.py
