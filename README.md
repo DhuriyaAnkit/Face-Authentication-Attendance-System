@@ -20,13 +20,13 @@ A Python-based Face Authentication Attendance System that uses a webcam and deep
 ## Project Structure
 1. Face_Authentication_Medoc/
 2. src/
-  a. register_user.py
-  b. attendance.py
-  c. delete_user.py
-    i. ui_cli.py
-3. data/
-4. attendance.csv
-5. env/
+   a. register_user.py
+   b. attendance.py
+   c. delete_user.py
+     i. ui_cli.py
+4. data/
+5. attendance.csv
+6. env/
 
 
 ## Installation
