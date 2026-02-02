@@ -95,7 +95,7 @@ This system is lightweight, reliable, and ideal for real-world use cases such as
 ## ⚙️ Installation
 
 ### Create Virtual Environment
-```bash
+bash
 python3 -m venv venv
 source venv/bin/activate
 
